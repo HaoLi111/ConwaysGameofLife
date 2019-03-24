@@ -1,0 +1,11 @@
+Package: ConwaysGameofLife
+Type: Package
+Title: Play Conway's Game of Life in R
+Version: 0.1.0
+Author: Hao Li
+Maintainer: Hao Li <lhrcplanes@qq.com>
+Description: One of the most famous games with cellular automaton.
+    Game of Life, or simply Life£¬ was devised by the British mathematician John Horton Conway in 1970.
+License: MIT
+Encoding: UTF-8
+LazyData: true
